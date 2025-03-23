@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-23T08:28:52 WIB" name="Surefire suite" finished-at="2025-03-23T08:29:01 WIB" duration-ms="8965">
+    <groups>
+    </groups>
+    <test started-at="2025-03-23T08:28:52 WIB" name="Surefire test" finished-at="2025-03-23T08:29:01 WIB" duration-ms="8965">
+      <class name="CompanyAPITest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:CompanyAPITest@53976f5c]" started-at="2025-03-23T08:28:52 WIB" name="setup" finished-at="2025-03-23T08:28:52 WIB" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCompanyAPIValue1()[pri:0, instance:CompanyAPITest@53976f5c]" started-at="2025-03-23T08:28:52 WIB" name="testCompanyAPIValue1" finished-at="2025-03-23T08:28:55 WIB" duration-ms="2499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyAPIValue1 -->
+        <test-method signature="testCompanyAPIValue20()[pri:0, instance:CompanyAPITest@53976f5c]" started-at="2025-03-23T08:28:55 WIB" name="testCompanyAPIValue20" finished-at="2025-03-23T08:28:57 WIB" duration-ms="1818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyAPIValue20 -->
+        <test-method signature="testCompanyAPIValue5()[pri:0, instance:CompanyAPITest@53976f5c]" started-at="2025-03-23T08:28:57 WIB" name="testCompanyAPIValue5" finished-at="2025-03-23T08:28:59 WIB" duration-ms="2111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyAPIValue5 -->
+        <test-method signature="testCompanyID()[pri:0, instance:CompanyAPITest@53976f5c]" started-at="2025-03-23T08:28:59 WIB" name="testCompanyID" finished-at="2025-03-23T08:29:01 WIB" duration-ms="2308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompanyID -->
+      </class> <!-- CompanyAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
