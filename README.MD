@@ -9,8 +9,8 @@ Ensure you have the following installed:
 ### Steps to Install
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/APIAutomation.git
-   cd APIAutomation
+   git clone https://github.com/GoldenCrimson07/API-Automation.git
+   cd API-Automation
    ```
 2. **Install dependencies**
    ```sh
@@ -21,3 +21,5 @@ Ensure you have the following installed:
    mvn test
    ```
 
+## 🔗 References
+- [Result](https://drive.google.com/file/d/1p_KZ8bagy-EjfWbwoOVzDHD5Xt7lgfnh/view?usp=sharing)
